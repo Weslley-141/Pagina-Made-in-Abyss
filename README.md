@@ -1,5 +1,7 @@
 # 🌊 Página Made in Abyss
 
+> ⚠️ **Nota:** Este repositório é um **re-upload** de um projeto desenvolvido anteriormente, publicado nesta conta para fins de organização, preservação do histórico de código e atualização de portfólio.
+
 Uma página web estática baseada na obra de fantasia sombria *Made in Abyss*, desenvolvida como um dos meus primeiros projetos durante o início dos meus estudos no curso de Desenvolvimento de Sistemas.
 
 O projeto apresenta informações sobre a obra, sua história, personagens principais e as diferentes camadas do Abismo, utilizando uma interface temática construída com HTML e CSS.
